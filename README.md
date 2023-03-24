@@ -1,10 +1,10 @@
 
-## Paytm| Clone
+## Paytm UI | Clone
 ### by Jabeed syed
 
 ![badges](https://img.shields.io/badge/Shopify.com-tailwindcss-brightgreen)
 
-## [Live](https://paytmkaro.netlify.app/)
+## [LIVE LINK](https://paytmkaro.netlify.app/)
 
 ### project name: Paytm.com| With tailwind css
 ## Hy, there!!
