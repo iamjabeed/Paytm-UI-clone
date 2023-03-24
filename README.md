@@ -6,7 +6,7 @@
 
 ## [LIVE LINK](https://paytmkaro.netlify.app/)
 
-### project name: Paytm.com| With tailwind css
+### project name: Paytm.com UI clone
 ## Hy, there!!
 
 ### project Description
